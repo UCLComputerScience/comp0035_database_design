@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c73fb61-04e1-4a82-acb5-9a4fd7c03891" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2ee1f3e2-f2b8-435a-b0d7-1c81c413a37c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/2ee1f3e2-f2b8-435a-b0d7-1c81c413a37c/storage_v2/_src_/schema/world.khvBBg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b5846677-2570-4fda-a2ab-7fdea3ad5cc0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlite-sakila-schema.sql" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Chinook_Sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Chinook_Sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Chinook_Sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Chinook_Sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Album: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="menagerie" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="menagerie" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="menagerie" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExecutionTargetDialog">
+    <checked>
+      <node key="80813751-a25e-4abd-b2cc-8332c47d9519" />
+    </checked>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b6855995-12a1-4a9f-a2c9-2a0c5d0e5067/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="20" selection-start-column="20" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menageriedata.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/menagerie.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/simpsons.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d12e29af-c501-4966-a19b-e647790ec677/console.sql" />
+        <option value="$PROJECT_DIR$/imdb.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/1857c588-bd33-4552-8585-b6e692d8a93c/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/80427c74-40db-4c35-8f19-c548d175ce79/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d318f2d4-5678-4aa5-be80-91db95f292c9/console.sql" />
+        <option value="$PROJECT_DIR$/world.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2ee1f3e2-f2b8-435a-b0d7-1c81c413a37c/console.sql" />
+        <option value="$PROJECT_DIR$/test.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b5846677-2570-4fda-a2ab-7fdea3ad5cc0/test.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/b6855995-12a1-4a9f-a2c9-2a0c5d0e5067/console.sql" />
+        <option value="$PROJECT_DIR$/sqlite_createdb_example" />
+        <option value="$PROJECT_DIR$/menagerie_data.sql" />
+        <option value="$PROJECT_DIR$/menageriedata.sql" />
+        <option value="$PROJECT_DIR$/menagerie.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="275" />
+    <option name="y" value="130" />
+    <option name="width" value="1129" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (database) (2) &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Database Consoles" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="database" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;sqlite" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c73fb61-04e1-4a82-acb5-9a4fd7c03891" name="Default Changelist" comment="" />
+      <created>1559823032450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559823032450</updated>
+      <workItem from="1559823034832" duration="22000" />
+      <workItem from="1559823100554" duration="4711000" />
+      <workItem from="1559833252803" duration="1161000" />
+      <workItem from="1560162762845" duration="57000" />
+      <workItem from="1560162849028" duration="560000" />
+      <workItem from="1560163473623" duration="4866000" />
+      <workItem from="1560242282428" duration="737000" />
+    </task>
+    <task id="LOCAL-00001" summary="requirements.txt added, currently empty">
+      <created>1560170180043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1560170180043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sakila added">
+      <created>1560175286097</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1560175286097</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chinook sqlite database added">
+      <created>1560178125822</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560178125822</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12114000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="275" y="130" width="1129" height="692" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32934684" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4991511" weight="0.50166667" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32928678" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4991511" visible="true" weight="0.32833335" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5008489" side_tool="true" weight="0.32928678" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.4974533" weight="0.56333333" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="SQL Generator" order="15" weight="0.52352047" />
+      <window_info anchor="bottom" id="Messages" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.058877643" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532027" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Console" order="1" weight="0.32932332" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.11278196" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.28560662" />
+      <window_info anchor="right" id="SciView" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="requirements.txt added, currently empty" />
+    <MESSAGE value="sakila added" />
+    <MESSAGE value="chinook sqlite database added" />
+    <option name="LAST_COMMIT_MESSAGE" value="chinook sqlite database added" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://d12e29af-c501-4966-a19b-e647790ec677/schema/main/table/teachers" />
+    <entry file="das://d12e29af-c501-4966-a19b-e647790ec677/schema/main/table/students" />
+    <entry file="das://d12e29af-c501-4966-a19b-e647790ec677/schema/main/table/courses" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/82737413-e21b-43ca-b6d4-d3fb00d15fbc/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7341d036-7700-482b-b7ec-7a0bb4630ff8/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/95235417-e187-45d0-9221-620d45d7d899/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simpsons.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://d12e29af-c501-4966-a19b-e647790ec677/schema/main/table/grades" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d12e29af-c501-4966-a19b-e647790ec677/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/42a2866b-1108-45b6-aaaa-c3b526243167/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/95235417-e187-45d0-9221-620d45d7d899">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>95235417-e187-45d0-9221-620d45d7d899</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="664.0" y="306.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/d12e29af-c501-4966-a19b-e647790ec677">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>d12e29af-c501-4966-a19b-e647790ec677</OriginalElement>
+          <nodes>
+            <node x="" y="">d12e29af-c501-4966-a19b-e647790ec677.TABLE:main.courses</node>
+            <node x="" y="">d12e29af-c501-4966-a19b-e647790ec677.TABLE:main.sqlite_master</node>
+            <node x="" y="">d12e29af-c501-4966-a19b-e647790ec677.TABLE:main.students</node>
+            <node x="" y="">d12e29af-c501-4966-a19b-e647790ec677.TABLE:main.teachers</node>
+            <node x="" y="">d12e29af-c501-4966-a19b-e647790ec677.TABLE:main.grades</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="267.0" y="189.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d12e29af-c501-4966-a19b-e647790ec677/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imdb.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="228" selection-start-line="23" selection-end-line="228" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f9019b7f-c5b5-4005-9b57-26b101b42516/schema/imdb_small/table/actors2" />
+    <entry file="uml://DATABASE/f9019b7f-c5b5-4005-9b57-26b101b42516">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>f9019b7f-c5b5-4005-9b57-26b101b42516</OriginalElement>
+          <nodes>
+            <node x="226.0" y="0.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.movies</node>
+            <node x="0.0" y="320.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.roles</node>
+            <node x="0.0" y="182.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.directors</node>
+            <node x="0.0" y="457.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.actors2</node>
+            <node x="226.0" y="182.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.directors_genres</node>
+            <node x="0.0" y="0.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.actors</node>
+            <node x="378.0" y="320.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.movies_directors</node>
+            <node x="183.0" y="320.0">f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.movies_genres</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.716636197440585" x="168.0" y="325.0" />
+          <SelectedNodes>
+            <node>f9019b7f-c5b5-4005-9b57-26b101b42516.TABLE:imdb_small.movies</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f9019b7f-c5b5-4005-9b57-26b101b42516/schema/imdb_small/table/actors" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f9019b7f-c5b5-4005-9b57-26b101b42516/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/7138c80a-b97d-468e-91ff-1a2c0fb051cb">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>7138c80a-b97d-468e-91ff-1a2c0fb051cb</OriginalElement>
+          <nodes>
+            <node x="" y="">7138c80a-b97d-468e-91ff-1a2c0fb051cb.TABLE:world.countries</node>
+            <node x="" y="">7138c80a-b97d-468e-91ff-1a2c0fb051cb.TABLE:world.languages</node>
+            <node x="" y="">7138c80a-b97d-468e-91ff-1a2c0fb051cb.TABLE:world.cities</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7606973058637084" x="386.0" y="295.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7138c80a-b97d-468e-91ff-1a2c0fb051cb/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/1857c588-bd33-4552-8585-b6e692d8a93c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/80427c74-40db-4c35-8f19-c548d175ce79/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/7cbf6f42-1163-4509-a37c-4d77eb158e03/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d318f2d4-5678-4aa5-be80-91db95f292c9/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/world.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="26" column="2" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="26" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2ee1f3e2-f2b8-435a-b0d7-1c81c413a37c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.sql" />
+    <entry file="uml://DATABASE/b5846677-2570-4fda-a2ab-7fdea3ad5cc0.SCHEMA:world">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>b5846677-2570-4fda-a2ab-7fdea3ad5cc0.SCHEMA:world</OriginalElement>
+          <nodes>
+            <node x="" y="">b5846677-2570-4fda-a2ab-7fdea3ad5cc0.TABLE:world.cities</node>
+            <node x="" y="">b5846677-2570-4fda-a2ab-7fdea3ad5cc0.TABLE:world.countries</node>
+            <node x="" y="">b5846677-2570-4fda-a2ab-7fdea3ad5cc0.TABLE:world.languages</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.7083993660855784" x="306.0" y="270.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b5846677-2570-4fda-a2ab-7fdea3ad5cc0/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d8f8a59d-1bee-4cd7-8f9c-5294756cd141/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sqlite-sakila-schema.sql" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b5846677-2570-4fda-a2ab-7fdea3ad5cc0/test.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/80813751-a25e-4abd-b2cc-8332c47d9519/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://80813751-a25e-4abd-b2cc-8332c47d9519/schema/main/table/sqlite_master" />
+    <entry file="das://b6855995-12a1-4a9f-a2c9-2a0c5d0e5067/schema/main/table/Album">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="6b70150d-cd5b-42e9-8bc9-6db9e5cb9208">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example" />
+    <entry file="file://$PROJECT_DIR$/menagerie_data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/b6855995-12a1-4a9f-a2c9-2a0c5d0e5067/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menageriedata.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="45" selection-start-line="17" selection-start-column="45" selection-end-line="17" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menagerie.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="2" selection-start-line="17" selection-start-column="2" selection-end-line="17" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
