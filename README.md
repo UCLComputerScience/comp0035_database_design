@@ -2,16 +2,24 @@
 
 This repository contains files to support the database design lecture for the UCL Computer Science course COMP0035 Systems Engineering.
 
-###MySQL databases
-sakila (requires sakila-schema.sql and sakila-data.sql)
-simpsons
-world
-imdb
+###SQL files to be used to create MySQL databases
+sakila-schema.sql and sakila-data.sql
+simpsons.sql
+world.sql
+imdb.sql
 
-###MySQLite datbases
-chinook
-menagerie
+###SQL files to be used to create SQLite databases
+simpsons_sqlite.sql
+world_sqlite.sql
+menagerie_schema.sql
+menagerie_data.sql
 
-###SQL queries for searches
+###MySQLite database files (already created with schema and data)
+chinook.sqlite
+menagerie.db
+simpsons.sqlite
+
+###SQL queries for SQL searches
 world_queries.sql - matches lecture slides
-menagerie.sql - questions and SQL solutions
+simpsons_queries.sql
+chinook_queries.sql - questions and SQL solutions
