@@ -11,16 +11,6 @@
       <user-name>root</user-name>
       <introspection-schemas>*:@,world</introspection-schemas>
     </data-source>
-    <data-source name="world@localhost" uuid="b5846677-2570-4fda-a2ab-7fdea3ad5cc0">
-      <database-info product="MySQL" version="8.0.16" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="8.0.16" exact-driver-version="8.0">
-        <extra-name-characters>#@</extra-name-characters>
-        <identifier-quote-string>`</identifier-quote-string>
-      </database-info>
-      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
-      <secret-storage>master_key</secret-storage>
-      <user-name>root</user-name>
-      <introspection-schemas>*:@,sakila</introspection-schemas>
-    </data-source>
     <data-source name="sakila" uuid="d8f8a59d-1bee-4cd7-8f9c-5294756cd141">
       <database-info product="MySQL" version="8.0.16" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.15 (Revision: 79a4336f140499bd22dd07f02b708e163844e3d5)" dbms="MYSQL" exact-version="8.0.16" exact-driver-version="8.0">
         <extra-name-characters>#@</extra-name-characters>
@@ -31,7 +21,7 @@
       <user-name>root</user-name>
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
-    <data-source name="Chinook_Sqlite" uuid="b6855995-12a1-4a9f-a2c9-2a0c5d0e5067">
+    <data-source name="menagerie" uuid="8a5e145e-a357-4940-9552-b4879b67a40e">
       <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" dbms="SQLITE" exact-version="3.25.1" exact-driver-version="3.25">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
@@ -39,7 +29,15 @@
       <auth-required>false</auth-required>
       <introspection-schemas>*:@</introspection-schemas>
     </data-source>
-    <data-source name="menagerie" uuid="8a5e145e-a357-4940-9552-b4879b67a40e">
+    <data-source name="world" uuid="f152315c-19df-4577-8239-9254c67b013a">
+      <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" dbms="SQLITE" exact-version="3.25.1" exact-driver-version="3.25">
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <auth-required>false</auth-required>
+      <introspection-schemas>*:@</introspection-schemas>
+    </data-source>
+    <data-source name="simpsons" uuid="77428652-0cac-4cb5-8211-68c479768d82">
       <database-info product="SQLite" version="3.25.1" jdbc-version="2.1" driver-name="SQLite JDBC" driver-version="3.25.1" dbms="SQLITE" exact-version="3.25.1" exact-driver-version="3.25">
         <identifier-quote-string>&quot;</identifier-quote-string>
       </database-info>
