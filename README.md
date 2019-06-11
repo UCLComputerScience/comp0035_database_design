@@ -1,4 +1,4 @@
-# comp0035_database
+# comp0035_database_design
 
 This repository contains files to support the database design lecture for the UCL Computer Science course COMP0035 Systems Engineering.
 
