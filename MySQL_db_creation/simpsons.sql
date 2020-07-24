@@ -1,8 +1,21 @@
+-- MySQL dump 10.11
+--
+-- to install this database, from a terminal, type:
+-- mysql -u USERNAME -p -h SERVERNAME simpsons < simpsons.sql
+--
+-- Host: localhost    Database: simpsons
+-- ------------------------------------------------------
+-- Server version   5.0.45-log
+
+/*DROP DATABASE IF EXISTS simpsons;
+CREATE DATABASE simpsons;
+USE simpsons; */
+
 DROP TABLE IF EXISTS courses;
 CREATE TABLE courses (
-id INTEGER UNSIGNED NOT NULL PRIMARY KEY, 
-name TEXT DEFAULT NULL, 
-teacher_id INTEGER UNSIGNED NOT NULL
+id INT UNSIGNED NOT NULL PRIMARY KEY, 
+name VARCHAR(32) DEFAULT NULL, 
+teacher_id INT UNSIGNED NOT NULL
 );
 INSERT INTO courses VALUES
 (10001, 'Computer Science 142', 1234),
@@ -12,8 +25,8 @@ INSERT INTO courses VALUES
 
 DROP TABLE IF EXISTS grades;
 CREATE TABLE grades (
-student_id INTEGER NOT NULL, 
-course_id INTEGER NOT NULL, 
+student_id INT UNSIGNED NOT NULL, 
+course_id INT UNSIGNED NOT NULL, 
 grade varchar(2) DEFAULT NULL
 );
 INSERT INTO grades VALUES
@@ -28,10 +41,10 @@ INSERT INTO grades VALUES
 
 DROP TABLE IF EXISTS students;
 CREATE TABLE students (
-id INTEGER NOT NULL PRIMARY KEY, 
-name TEXT DEFAULT NULL, 
-email TEXT DEFAULT NULL,
-password TEXT DEFAULT NULL
+id INT UNSIGNED NOT NULL PRIMARY KEY, 
+name VARCHAR(32) DEFAULT NULL, 
+email VARCHAR(32) DEFAULT NULL,
+password VARCHAR(16) DEFAULT NULL
 );
 INSERT INTO students VALUES
 (123, 'Bart', 'bart@fox.com', 'bartman'),
@@ -41,7 +54,7 @@ INSERT INTO students VALUES
 
 DROP TABLE IF EXISTS teachers;
 CREATE TABLE teachers (
-id INTEGER NOT NULL PRIMARY KEY, 
+id INT UNSIGNED NOT NULL PRIMARY KEY, 
 name VARCHAR(32) DEFAULT NULL
 );
 
@@ -49,3 +62,4 @@ INSERT INTO teachers VALUES
 (1234, 'Krabappel'),
 (5678, 'Hoover'),
 (9012, 'Stepp');
+

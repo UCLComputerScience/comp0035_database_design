@@ -1,5 +1,5 @@
 CREATE TABLE `cities` (
-  "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+  "id" INTEGER PRIMARY KEY,
   "name" TEXT NOT NULL default '',
   "country_code" TEXT NOT NULL default '',
   "district" TEXT NOT NULL default '',
@@ -4091,7 +4091,7 @@ INSERT INTO `cities` VALUES (1,'Kabul','AFG','Kabol',1780000),
 --
 
 CREATE TABLE "countries" (
-  `code` TEXT NOT NULL PRIMARY KEY default '',
+  `code` TEXT PRIMARY KEY,
   `name` TEXT NOT NULL default '',
   `continent` CHECK( continent IN ('Asia','Europe','North America','Africa','Oceania','Antarctica','South America')) NOT NULL default 'Asia',
   `region` TEXT NOT NULL default '',

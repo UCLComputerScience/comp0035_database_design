@@ -3,7 +3,7 @@
 This repository contains files to support the database design lecture for the UCL Computer Science course COMP0035 Applied Software Engineering.
 
 ### SQL files to be used to create SQLite databases
-- simpsons_sqlite.sql
+- simpsons_schema_sqlite.sql
 - world_sqlite.sql
 - menagerie_schema.sql
 - menagerie_data.sql
@@ -11,7 +11,7 @@ This repository contains files to support the database design lecture for the UC
 ### MySQLite database files (already created with schema and data)
 - chinook.sqlite
 - menagerie.db
-- simpsons.sqlite
+- world.sqlite
 
 ### SQL files to be used to create MySQL databases
 - sakila-schema.sql and sakila-data.sql
